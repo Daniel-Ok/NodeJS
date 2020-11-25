@@ -1,0 +1,7 @@
+{
+    "hostname": "<*.demandware.net (without https/http)>",
+    "username": "<username>",
+    "password": "<password>",
+    "cartridge": ["cartridge A", "cartridge B"], //optional
+    "code-version": "<code-version>"
+}
