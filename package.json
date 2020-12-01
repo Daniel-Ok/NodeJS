@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Js Tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-Ok/NodeJS.git"
+  },
+  "author": "Daniel Okyere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel-Ok/NodeJS/issues"
+  },
+  "homepage": "https://github.com/Daniel-Ok/NodeJS#readme"
+}
